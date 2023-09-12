@@ -1,1 +1,1 @@
-## A slides related to dimension reduction
+These are some slides I created using LaTeX.
